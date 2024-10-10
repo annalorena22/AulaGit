@@ -1,0 +1,1 @@
+#Criar uma função que calcule o fatorial de um numero dado pelo usuário.
